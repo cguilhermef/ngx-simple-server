@@ -1,5 +1,9 @@
 {
   "name": "angular-publish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cguilhermef/ngx-simple-server.git"
+  },
   "version": "1.0.0",
   "description": "Simple server in ExpressJS to run Angular builded application",
   "main": "server.js",
